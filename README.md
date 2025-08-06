@@ -1,2 +1,2 @@
-# cybersecurity-task1
+# cybersecurity-tasks
 Scan Your Local Network For Open Ports
